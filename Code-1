@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()//C语言中都是从main函数开始，程序的入口
+{
+	printf("My First C Program\n");
+	return 0;
+}
