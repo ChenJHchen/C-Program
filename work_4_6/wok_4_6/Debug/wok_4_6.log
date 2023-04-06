@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\chen\Desktop\code\wok_4_6\wok_4_6\test.c(47,11): warning C4087: “getchar”: 用“void”参数列表声明
+  wok_4_6.vcxproj -> C:\Users\chen\Desktop\code\wok_4_6\Debug\wok_4_6.exe
