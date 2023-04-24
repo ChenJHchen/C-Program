@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\Chen\Desktop\Code\code_4_24\code_4_24\test.c(114,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+  code_4_24.vcxproj -> C:\Users\Chen\Desktop\Code\code_4_24\x64\Debug\code_4_24.exe
