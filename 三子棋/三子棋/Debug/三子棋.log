@@ -1,0 +1,4 @@
+﻿  game.c
+C:\Users\Chen\Desktop\Code\三子棋\三子棋\game.h(1,1): warning C4828: 文件包含在偏移 0x1ba 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\Chen\Desktop\Code\三子棋\三子棋\game.c(149): warning C4715: “ISwin”: 不是所有的控件路径都返回值
+  三子棋.vcxproj -> C:\Users\Chen\Desktop\Code\三子棋\Debug\三子棋.exe
