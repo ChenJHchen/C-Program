@@ -1,0 +1,10 @@
+﻿  test.c
+C:\Users\Chen\Desktop\Code\code_5_10\code_5_10\test.c(319,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Chen\Desktop\Code\code_5_10\code_5_10\test.c(319,12): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Chen\Desktop\Code\code_5_10\code_5_10\test.c(320,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Chen\Desktop\Code\code_5_10\code_5_10\test.c(320,12): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Chen\Desktop\Code\code_5_10\code_5_10\test.c(321,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Chen\Desktop\Code\code_5_10\code_5_10\test.c(321,12): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Chen\Desktop\Code\code_5_10\code_5_10\test.c(322,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Chen\Desktop\Code\code_5_10\code_5_10\test.c(322,12): message : 请考虑在格式字符串中使用“%zd”
+  code_5_10.vcxproj -> C:\Users\Chen\Desktop\Code\code_5_10\x64\Debug\code_5_10.exe
