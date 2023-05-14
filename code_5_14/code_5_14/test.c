@@ -172,3 +172,24 @@
 //    //Êä³ö½á¹û
 //    return 0;
 //}
+
+
+//int main()
+//{
+//	int arr[10] = { 0 };
+//	printf("1:%p\n", arr);
+//	printf("1:%p\n", arr+1);
+//	printf("----------------------\n");
+//	printf("2:%p\n", &arr[0]);
+//	printf("2:%p\n", &arr[0]+1);
+//
+//	printf("----------------------\n");
+//
+//
+//	printf("3:%p\n", &arr);
+//	printf("3:%p\n", &arr+1);
+//
+//
+//
+//	return 0;
+//}
